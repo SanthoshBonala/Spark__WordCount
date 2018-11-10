@@ -50,3 +50,5 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
 | 4     | data        |
 | 4     | Apache      |
 | 4     | cluster     |
+
+![resultchart](https://github.com/SanthoshBonala/Spark__WordCount/blob/master/Images/resultchart.png)
