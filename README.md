@@ -52,4 +52,4 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     | 4     | Apache      |
     | 4     | cluster     |
 
-![resultchart]( n,https://github.com/SanthoshBonala/Spark__WordCount/blob/master/Images/resultchart.png)
+    <img src="Images/resultchart.png" alt="result image" style="float: right">
