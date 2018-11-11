@@ -51,5 +51,4 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     | 4     | data        |
     | 4     | Apache      |
     | 4     | cluster     |
-
-    <img src="Images/resultchart.png" alt="result image" style="float: right">
+    <img src="Images/resultchart.png" alt="result image" style="float: right;">
