@@ -37,18 +37,19 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     result1.map(_.toString()).saveAsTextFile("output")
     ```
 ## Results
-| Count | Word        |
-|-------|-------------|
-| 16    | the         |
-| 16    | a           |
-| 11    | of          |
-| 9     | Spark       |
-| 8     | distributed |
-| 7     | in          |
-| 5     | is          |
-| 5     | and         |
-| 4     | data        |
-| 4     | Apache      |
-| 4     | cluster     |
+1. Below are the results
+2.  | Count | Word        |
+    |-------|-------------|
+    | 16    | the         |
+    | 16    | a           |
+    | 11    | of          |
+    | 9     | Spark       |
+    | 8     | distributed |
+    | 7     | in          |
+    | 5     | is          |
+    | 5     | and         |
+    | 4     | data        |
+    | 4     | Apache      |
+    | 4     | cluster     |
 
-![resultchart](https://github.com/SanthoshBonala/Spark__WordCount/blob/master/Images/resultchart.png)
+![resultchart]( n,https://github.com/SanthoshBonala/Spark__WordCount/blob/master/Images/resultchart.png)
