@@ -1,3 +1,4 @@
+<link href="style.css" rel="stylesheet" />
 # Spark Word Count (Spark Wikipedia)
 ## About Me
 
@@ -38,12 +39,6 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     ```
 ## Results
 <img src="Images/resultchart.png" alt="result image" style="float: right;">
-
-<style>
-table {
-    width: 30% !important;
-}
-</style>
 
 | Count | Word        |
 |-------|-------------|
