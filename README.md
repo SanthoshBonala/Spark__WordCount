@@ -41,8 +41,9 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
 
 <style>
 table {
-    width: 30%;
-}</style>
+    width: 30% !important;
+}
+</style>
 
 | Count | Word        |
 |-------|-------------|
