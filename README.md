@@ -37,7 +37,7 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     result1.map(_.toString()).saveAsTextFile("output")
     ```
 ## Results
-<img src="Images/resultchart.png" alt="result image" style="float: right;">
+<img src="blob/master/Images/Untitled.png" alt="result image" style="float: right;">
 <link href="style.css" rel="stylesheet" />
 
 | Count | Word        |
