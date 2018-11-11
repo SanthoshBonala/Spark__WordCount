@@ -38,6 +38,7 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     ```
 ## Results
 > <img src="Images/resultchart.png" alt="result image" style="float: right;">
+
 | Count | Word        |
 |-------|-------------|
 | 16    | the         |
