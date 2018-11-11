@@ -39,7 +39,10 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
 ## Results
 <img src="Images/resultchart.png" alt="result image" style="float: right;">
 
-<div style="display: inline-block; width: 30%">
+<style>
+table {
+    width: 30%;
+}</style>
 
 | Count | Word        |
 |-------|-------------|
@@ -55,5 +58,4 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
 | 4     | Apache      |
 | 4     | cluster     |
 
-</div>
 
