@@ -52,3 +52,8 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
 | 4     | data        |
 | 4     | Apache      |
 | 4     | cluster     |
+
+table {
+    width: 30%;
+    padding-left: 20px;
+}
