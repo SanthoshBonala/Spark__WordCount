@@ -3,6 +3,7 @@
 I am Santhosh Bonala. I am pursuing my Masters in Applied Computer Science from Northwest Missouri State University. I work as a Graduate Assistant for the course Web Applications and Development.
 
 ## Objective
+To perform Wordcount Operation using Scala on a raw text input by using filter,map and reduceByKey Methods available in scala
 
 ## Data Source
 I have taken the data from overview of spark on wikipedia. Below is the attached link to the data.  
@@ -56,5 +57,4 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
 | 4     | cluster     |
 
 ## Published Page: [Link](https://santhoshbonala.github.io/Spark__WordCount/)
-
 
