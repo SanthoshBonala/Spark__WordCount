@@ -1,5 +1,6 @@
 # Spark Word Count (Spark Wikipedia)
 ## About Me
+I am Santhosh Bonala. I am pursuing my Masters in Applied Computer Science from Northwest Missouri State University. I work as a Graduate Assistant for the course Web Applications and Development.
 
 ## Objective
 
@@ -37,7 +38,7 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     result1.map(_.toString()).saveAsTextFile("output")
     ```
 ## Results
-<img src="Images/resultchart.png" alt="result image" style="float: right;">
+<img src="https://raw.githubusercontent.com/SanthoshBonala/Spark__WordCount/master/Images/resultchart.png" alt="result image" style="float: right;">
 <link href="style.css" rel="stylesheet" />
 
 | Count | Word        |
