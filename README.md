@@ -39,6 +39,8 @@ source: [Spark Wikipedia](https://en.wikipedia.org/wiki/Apache_Spark)
     result1.map(_.toString()).saveAsTextFile("output")
     ```
 ## Results
+
+I have taken text from wikipedia and analysed the data using scala methods like `reduceByKey`, `sortByKey` and `map`. I have analyzed and found the top most frequent words used in wikipedia page on spark article. Filtered the data using faltMap which flattens the output unlike a map. Below screenshot shows the visualization of the output records. 
 <img src="https://raw.githubusercontent.com/SanthoshBonala/Spark__WordCount/master/Images/resultchart.png" alt="result image" style="float: right;">
 <link href="style.css" rel="stylesheet" />
 
